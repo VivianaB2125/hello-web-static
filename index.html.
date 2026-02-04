@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Static Web</title>
+</head>
+<body>
+    <h1>Hey Me!</h1>
+    <p>¡Este es mi sitio estático desplegado desde GitHub en EC2 con Nginx!</p>
+    <p>Desplegado por [tu nombre o usuario]</p>
+</body>
+</html>
